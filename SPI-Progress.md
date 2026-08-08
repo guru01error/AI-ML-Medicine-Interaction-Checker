@@ -1,4 +1,4 @@
-# SPI — 10 Week Project Progress
+# SPI — Week Project Progress
 
 ## Week 1
 ### Planned Work
